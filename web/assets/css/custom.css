@@ -1,0 +1,17 @@
+.top_button_wrapper {
+    padding: 10px 0;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    position: relative;
+    height: inherit;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.cs-portfolio h2 {
+    color: black !important;
+}
+.cs-portfolio .cs-portfolio_subtitle {
+    color: black !important;
+}
